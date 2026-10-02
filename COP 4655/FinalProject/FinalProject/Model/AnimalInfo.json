@@ -1,0 +1,168 @@
+/* Sources for the African Lion
+// Source: https://www.nationalgeographic.com/animals/mammals/facts/african-lion
+// Source: https://denverzoo.org/animals/african-lion/
+*/
+{
+  "Tiger": {
+    "image": "https://example.com/tiger.jpg",
+    "diet": "Carnivore",
+    "lifespan": "10–15 years",
+    "habitat": "Forest, grassland",
+    "geo_range": "Asia"
+  },
+  
+  "Elephant": {
+    "image": "https://example.com/elephant.jpg",
+    "diet": "Herbivore",
+    "lifespan": "60–70 years",
+    "habitat": "Grasslands, forests",
+    "geo_range": "Africa, Asia"
+  },
+  
+  "African Lion": {
+    "image": "https://example.com/african_lion.jpg",
+    "diet": "Carnivore",
+    "lifespan": " 10-14 years",
+    "habitat": "savannas, plains, grasslands, dense bush, and open woodlands",
+    "geo_range": "Africa"
+  },
+  
+  "Giraffe": {
+      "image": "https://example.com/giraffe.jpg",
+      "diet": "Herbivore",
+      "lifespan": "25 years",
+      "habitat": "Savannas, woodlands",
+      "geo_range": "Africa"
+    },
+  
+    "Peregrine Falcon": {
+      "image": "https://example.com/peregrine_falcon.jpg",
+      "diet": "Carnivore",
+      "lifespan": "13–15 years",
+      "habitat": "Cliffs, urban areas, open landscapes",
+      "geo_range": "Worldwide"
+    },
+    
+    "Komodo Dragon": {
+      "image": "https://example.com/komodo_dragon.jpg",
+      "diet": "Carnivore",
+      "lifespan": "30 years",
+      "habitat": "Tropical savannah forests",
+      "geo_range": "Indonesia"
+    },
+    
+    "Giant Panda": {
+      "image": "https://example.com/giant_panda.jpg",
+      "diet": "Herbivore (mostly bamboo)",
+      "lifespan": "20 years",
+      "habitat": "Temperate broadleaf and mixed forests",
+      "geo_range": "China"
+    },
+    
+    "Blue Whale": {
+      "image": "https://example.com/blue_whale.jpg",
+      "diet": "Carnivore (krill)",
+      "lifespan": "70–90 years",
+      "habitat": "Open oceans",
+      "geo_range": "Worldwide"
+    },
+    
+    "King Cobra": {
+      "image": "https://example.com/king_cobra.jpg",
+      "diet": "Carnivore",
+      "lifespan": "20 years",
+      "habitat": "Forests, bamboo thickets",
+      "geo_range": "Southeast Asia"
+    },
+    
+    "Red Kangaroo": {
+      "image": "https://example.com/red_kangaroo.jpg",
+      "diet": "Herbivore",
+      "lifespan": "22 years",
+      "habitat": "Grasslands, open plains",
+      "geo_range": "Australia"
+    },
+    
+    "Snow Leopard": {
+        "image": "https://example.com/snow_leopard.jpg",
+        "diet": "Carnivore",
+        "lifespan": "10–12 years",
+        "habitat": "Mountain ranges, alpine meadows",
+        "geo_range": "Central Asia"
+      },
+    
+      "Bald Eagle": {
+        "image": "https://example.com/bald_eagle.jpg",
+        "diet": "Carnivore",
+        "lifespan": "20 years",
+        "habitat": "Near large bodies of open water",
+        "geo_range": "North America"
+      },
+      
+      "Orangutan": {
+        "image": "https://example.com/orangutan.jpg",
+        "diet": "Omnivore",
+        "lifespan": "35–45 years",
+        "habitat": "Tropical rainforests",
+        "geo_range": "Borneo, Sumatra"
+      },
+      
+      "Polar Bear": {
+        "image": "https://example.com/polar_bear.jpg",
+        "diet": "Carnivore",
+        "lifespan": "25–30 years",
+        "habitat": "Arctic regions",
+        "geo_range": "Arctic Circle"
+      },
+      
+      "Emperor Penguin": {
+        "image": "https://example.com/emperor_penguin.jpg",
+        "diet": "Carnivore (fish, squid)",
+        "lifespan": "15–20 years",
+        "habitat": "Antarctic ice and waters",
+        "geo_range": "Antarctica"
+      },
+      
+      "Cheetah": {
+        "image": "https://example.com/cheetah.jpg",
+        "diet": "Carnivore",
+        "lifespan": "10–12 years",
+        "habitat": "Savannas, grasslands",
+        "geo_range": "Africa"
+      },
+      
+      "Hippopotamus": {
+        "image": "https://example.com/hippopotamus.jpg",
+        "diet": "Herbivore",
+        "lifespan": "40–50 years",
+        "habitat": "Rivers, lakes, swamps",
+        "geo_range": "Africa"
+      },
+      
+      "Rattlesnake": {
+        "image": "https://example.com/rattlesnake.jpg",
+        "diet": "Carnivore",
+        "lifespan": "10–20 years",
+        "habitat": "Deserts, grasslands, forests",
+        "geo_range": "North America"
+      },
+      
+      "Red Panda": {
+        "image": "https://example.com/red_panda.jpg",
+        "diet": "Herbivore (bamboo, fruits)",
+        "lifespan": "8–10 years",
+        "habitat": "Temperate forests",
+        "geo_range": "Himalayas"
+      },
+      
+      "Moose": {
+        "image": "https://example.com/moose.jpg",
+        "diet": "Herbivore",
+        "lifespan": "15–20 years",
+        "habitat": "Forests, wetlands",
+        "geo_range": "North America, Europe, Asia"
+      }
+    }
+  }
+  
+}
